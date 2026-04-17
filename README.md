@@ -1,1 +1,0 @@
-# Trabajo-en-grupo-Computaci-n
