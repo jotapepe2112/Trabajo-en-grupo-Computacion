@@ -16,3 +16,7 @@ Guardar cambios, pero con historial (queda un registro de que cambio, cuando cam
 Una copia de un proyecto para probar cosas sin modificar o potencialmente romper el original
 - Collaborator
 Una persona invitada a colaborar en un proyecto
+
+
+Github ayuda a evitar un caos cuando el proyecto crece garantizando un trabajo de forma organizada, segura y profesional. 
+Github es útil porque te permite guardar tu código con respaldo en la nube, evitando así perder los datos en caso de que tu PC falle, ya que seguirás desde donde ibas antes de que falle. También lleva un historial completo de cambios para poder volver atrás si algo se rompe y manteniene el orden cuando el proyecto crece mediante ramas e issues. Por otra parte, permite trabajar en equipo sin pisarse archivos evitando así que haya un descontrol y mejorar el trabajo en equipo. Automatiza tareas como pruebas o publicación de tu web y, además, se puede usarlo como portafolio real para mostrar lo que sabes hacer mientras aprendes a trabajar con las mismas prácticas que usan las empresas.
